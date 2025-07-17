@@ -1,5 +1,7 @@
 🗽 NYC Taxi Revenue Analysis — Microsoft Fabric Project (2015 Data)
+
 🚕 Project Title: NYC Taxi Revenue Analysis
+
 📊 Tools Used: Microsoft Fabric (Data Factory, Lakehouse, Dataflows Gen2), Power BI
 📁 Dataset: NYC Green Taxi Trip Records - January 2015
 📦 Source: NYC TLC Trip Record Data
